@@ -1,0 +1,4 @@
+SUCCESS # Negative primary store count -> actualy code does not implement checks for this so it is successfull
+SUCCESS # Negative secondary store count -> actualy code does not implement checks for this so it is successfull
+SUCCESS # Negative failure rates -> actualy code does not implement checks for this so it is successfull
+SUCCESS # Over 1 failure rates -> actualy code does not implement checks for this so it is successfull

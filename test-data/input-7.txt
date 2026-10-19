@@ -1,0 +1,4 @@
+# Create ship with always failing torpedo stores
+GT4500,10,1,10,1
+TORPEDO,SINGLE # Should fail
+TORPEDO,ALL # Should fail
