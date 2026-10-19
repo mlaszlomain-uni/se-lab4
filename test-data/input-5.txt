@@ -1,0 +1,5 @@
+# Create a ship with non-failin torpedo stores and test if firing them actually consumes torpedos
+GT4500,2,0,0,0
+TORPEDO,SINGLE # Should fire from primary
+TORPEDO,SINGLE # Should fire from primary
+TORPEDO,SINGLE # Should fail

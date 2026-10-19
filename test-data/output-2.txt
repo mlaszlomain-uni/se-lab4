@@ -1,0 +1,2 @@
+SUCCESS # Ship creation
+SUCCESS # TORPEDO,ALL firing

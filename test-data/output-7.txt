@@ -1,0 +1,3 @@
+SUCCESS # Ship creation
+FAIL # First firing
+FAIL # Second firing

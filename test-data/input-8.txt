@@ -1,0 +1,5 @@
+# Create ships with invalid parameters
+GT4500,-1,0,0,0 # Should fail due to negative primary store topredo count
+GT4500,0,0,-1,0 # Should fail due to negative secondary store torpedo count
+GT4500,1,-0.1,1,-0.1 # Should fail due to negativ failure rates
+GT4500,1,2,1,2 # Should fail due to over 1 failure rates
